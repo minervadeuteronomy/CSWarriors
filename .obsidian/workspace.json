@@ -37,28 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas/Project Palimpset.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66aecf25abd0e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AchtEulen/Acht's Notes for Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "96391be35f1ce232",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bcc4407dd69109df",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AchtEulen/Acht's Notes for Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AchtEulen/Acht's Notes for Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AchtEulen/Acht's Notes for Java.md"
               }
             }
           }
@@ -186,12 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deac04363353d89c",
+  "active": "66aecf25abd0e8f8",
   "lastOpenFiles": [
-    "Project Ideas",
+    "AchtEulen",
     "Hello J..md",
-    "Project Ideas/Project Palimpset.md",
+    "AchtEulen/Acht's Notes for Java.md",
     "README.md",
-    "Welcome.md"
+    "Welcome.md",
+    "Project Ideas",
+    "Project Ideas/Project Palimpset.md"
   ]
 }
